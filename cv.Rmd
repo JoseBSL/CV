@@ -74,11 +74,11 @@ Worked for two months at Mario Vallejo's lab helping with greenhouse experiment 
 
 `2012-14`
 __Intern student__(_University of Seville, Spain_)
-Two years in the department of Plant Science with Juan Arroyo. Mainly, I create a database using Web Of Science with several characteristic of heterostily plants. 
+Two years in the department of Plant Science with Juan Arroyo. Database using Web Of Science with several characteristic of heterostily plants. 
 
 -----
 
-This CV has been done with R Markdown. An online version of it is available [__on my github account__](https://github.com/JoseBSL/md-cv) ![](githublogo.png){ width=2.5% }
+This CV has been done with R Markdown. An online version of it is available [__on my github account__](https://github.com/JoseBSL/CV/blob/master/cv.Rmd) ![](githublogo.png){ width=2.5% }
 
 
 
