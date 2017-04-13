@@ -44,6 +44,7 @@ Right now working on my first paper of my Master Thesis at the Biological statio
 * Git
 * Species Taxonomy 
 * Field work experience 
+* ImageJ
 
 
 ## Projects
