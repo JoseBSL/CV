@@ -49,7 +49,14 @@ Right now working on my first paper of my Master Thesis at the Biological statio
 
 ## Projects
 
-My supervisor Romina Rader has two main projects and I will collaborate with her indistinctly in both of them. All of them are about crop pollination, and the crops where I'm going to work are: apple, raspberry, blueberry, mango and melon. Notwithstanding some other crops can be included in function of our preferences of research.
+`2017` _PhD_
+Effects of heterospecific pollen, ecosystem services, pollinators efficiency on crops such as mango, apple, blueberry, raspberry and watermelon.
+
+`2016-2017` _Master thesis: Biotic and abiotic factors can change plant-plant competition regimes_ 
+Effects of salinity and pollinators on plan coexistence.  
+
+`2015-2016` _Undergraduate thesis: Pollination in heterostyly plants_
+Database with the main characteristic of heterostyly plants (never done it before).
 
 
 ## Languages 
