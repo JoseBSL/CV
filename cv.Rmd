@@ -4,7 +4,7 @@ output: pdf_document
 layout: cv
 ---
 
-## Jose Barragan
+## Jose B. Lanuza
 PhD candidate in agroecology 
 
 [barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](gmaillogo1.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](twitterlogo1.png){ width=2.5% }|
