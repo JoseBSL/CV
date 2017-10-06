@@ -1,0 +1,121 @@
+---
+title: "Jose B. Lanuza's application form"
+output:
+  pdf_document: default
+  word_document: default
+layout: cv
+---
+
+# Curriculum Vitae
+PhD candidate in agroecology 
+
+[barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](gmaillogo1.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](twitterlogo1.png){ width=2.5% }|
+[JoseBSL](https://github.com/JoseBSL) ![](githublogo.png){ width=2.5% }
+
+
+
+## Currently
+
+I'm in my first year of PhD at University of New England (Australia).
+
+
+## Education
+
+`2017`
+__University of New England__ Agroecology PhD (supervisors: Romina Rader and Ignasi Bartomeus)
+
+`2015-16`
+__University Pablo de Olavide__ MSc Biodiversity and Conservation Biology 
+
+`2010-15`
+__University of Seville__ BSc Biology 
+
+
+## Presentations
+
+Oral speech "Pollinators can change the plant-plant competition regimes" at XIV MEDECOS and XIII AEET meeting (31st of January to 4th of February)
+
+
+## Publications
+
+Working on reviervers' comments of the journal Ecology Letters. Pre-print article on:
+
+https://www.biorxiv.org/content/early/2017/07/31/170423
+
+## Technical skills
+
+* R (Rstudio/Markdown)
+* Git
+* Species Taxonomy 
+* Field work experience 
+* ImageJ
+
+
+## Projects
+
+`2017` _PhD_
+Effects of heterospecific pollen, ecosystem services, pollinators efficiency on crops such as mango, apple, blueberry, raspberry and watermelon.
+
+`2016-2017` _Master thesis: Biotic and abiotic factors can change plant-plant competition regimes_ 
+Effects of salinity and pollinators on plan coexistence.  
+
+`2015-2016` _Undergraduate thesis: Pollination in heterostyly plants_
+Database with the main characteristic of heterostyly plants (never done it before).
+
+
+## Languages 
+
+1. Spanish (native)
+
+2. English (advanced) TOEFL, C1 level (October 2016) 
+
+
+## Placements
+
+`2015-16`
+__Research assistant__ (_Biological Station of Donana, Spain_)
+Worked two months as Research Assistant at Biological Station of Donana for I.Bartomeus, Seville (Spain). Morphometry measures of pollinators with camera Nikon D3300 and ImageJ and also Pollinators Database with R. 
+
+`2015-16`
+__Research assistant__ (_Asturias, Spain_)
+Worked one week with apple tree orchards at North of Spain. Single visit experiments and sampling of their pollinators.
+
+`2013-14`
+__Intership at Stirling University__ (_Stirling, Scotland_)
+Worked for two months at Mario Vallejo's lab with plants of the genus _Mimulus_. Greehouse experiments and fieldwork in Shetland islands and Stirling.
+
+`2012-14`
+__Intern student__(_University of Seville, Spain_)
+Two years in the department of Plant Science with Juan Arroyo. Worked with databases using articles of Web Of Science with several characteristic of heterostily plants. 
+
+-----
+
+This CV has been done with R Markdown. An online version of it is available [__on my github account__](https://github.com/JoseBSL/CV/blob/master/cv.Rmd) ![](githublogo.png){ width=2.5% }
+
+
+# Contact of previous supervisors
+
+**Oscar Godoy** (IRNAS-CSIC,Seville, Spain) ogodoy@irnas.csic.es
+
+**Ignasi Bartomeus** (EBD-CSIC, Seville, Spain) nacho.bartomeus@gmail.com 
+
+
+# Cover letter
+
+I would like to express my interest in the CSIRO postgraduate Top-Up scholarship Land and Water. I am a first year PhD candidate at the University of New England, Armidale, under the supervision of Dr. Romina Rader (UNE, Australia) and Dr. Ignasi Bartomeus (EBD, Spain). The aim of this application is to collaborate with two great experts on Conservation Biology that is my main research topic and therefore be able to use CSIRO resources to improve the quality of my research. 
+
+Currently, my research is focused on the understanding of plant coexistence through interactions with another trophic level, pollinators. Plant species can have competitive or facilitative interactions, when competition occurs, it can take place in several ways. Species can compete through pollen interactions and depending on species traits the outcome of these interactions will differ. In my research we are trying to understand what traits modulate these interactions and their implications at community level.  Therefore, my research interest fits with the section 3 of the Research Area of Land and Water application form; “Predicting local biodiversity extinction rates in intensifying production landscapes”.
+
+The understanding of species composition and what are the factors that modulates it has been always an intriguing question to me and this scholarship gives me the chance to get involved in an exciting project where I can put in practise all the acquired knowledge about Conservation Biology. Moreover, I have done a Masters Degree of Biodiversity and Conservation Biology at Pablo de Olavide University (Seville, Spain) graduating with First Class Honours where I was involved in a research project about species coexistence in the National Park of Donana (Huelva, Spain) with a computational approach which links with the main topic of the Research Area I’m applying for. The paper written of this project was submitted to Ecology Letters and currently we are working on Referees’ reports on the manuscript to resubmit to the journal.
+
+The type of PhD that I’m doing is by publications, which means that each chapter that I’m developing would be equal to a manuscript. The first chapter involves glasshouse experiments with distinct pollination treatments within 4 different families of Eudicots (Brassicaceae, Convolvulaceae, Lamiaceae and Solanaceae). The second chapter or manuscript is adding a next level of complexity that is to include three taxa of pollinators to this glasshouse experiments once we know how the distinct plants behave with the pollination treatments. The third paper is a meta-analysis of the importance of the distinct plant and pollinator traits that are involved in the effect of heterospecific pollen. Lastly, the fourth chapter is a broad picture at community-ecosystem level where we are trying to understand what processes modulate species coexistence. In my opinion, the topic of the scholarship fits completely with this broad perspective because of the scale and my personal interests.
+
+In order to show the skills that I have with R, I have done all this document on Markdown. This means that I'm able to develop research in an open source and share codes with my collaborators through git which allows a fast and productive interaction to develop research of the highest quality possible. My possible future collaborators of the CSIRO have a strong knowledegde of computational biology and my ability to also use different programming languages such as Markdown and HTML can improve our possible collaborations. Furthermore, I already have experience of planning experiments, writting a manuscript and submitting which gives me the necessary skills to overcome the difficult publishing process.
+
+My longer term career aspirations are to keep involved in research as a postdoctoral researcher after I finish my PhD in a lab where they study biodiversity and conservation. Moreover, I have been always attracted by the idea of being a proffesor and try to help people in the understanding of ecology. Although they are ambitious objectives I strongly believe that if have succesful PhD with the expected publications I could keep myself in the competitive world of research.
+
+# 
+
+
+
+
