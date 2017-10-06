@@ -1,6 +1,8 @@
 ---
 title: "Jose Barragan's CV"
-output: pdf_document
+output:
+  pdf_document: default
+  word_document: default
 layout: cv
 ---
 
