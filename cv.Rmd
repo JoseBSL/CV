@@ -7,7 +7,7 @@ layout: cv
 ---
 
 ## Jose B. Lanuza
-PhD candidate in agroecology 
+PhD candidate in heterospecific pollen effect and plant ecology.
 
 [barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](gmaillogo1.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](twitterlogo1.png){ width=2.5% }|
 [JoseBSL](https://github.com/JoseBSL) ![](githublogo.png){ width=2.5% }
@@ -16,13 +16,13 @@ PhD candidate in agroecology
 
 ## Currently
 
-I'm in my first year of PhD at University of New England (Australia).
+I'm in my second year of PhD at University of New England (Australia). I study the effects of heterospecific pollen and trade offs of reproductive traits.
 
 
 ## Education
 
 `2017`
-__University of New England__ Agroecology PhD (supervisors: Romina Rader and Ignasi Bartomeus)
+__University of New England__ PhD (supervisors: Romina Rader and Ignasi Bartomeus)
 
 `2015-16`
 __University Pablo de Olavide__ MSc Biodiversity and Conservation Biology 
@@ -38,7 +38,7 @@ Oral speech "Pollinators can change the plant-plant competition regimes" at XIV 
 
 ## Publications
 
-Right now working on my first paper of my Master Thesis at the Biological station of Donana and Pablo de Olavide University (supervisors I.Bartomeus and O. Godoy)
+Lanuza, J. B., Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral visitors and soil conditions on the determinants of competitive outcomes maintain species diversity in heterogeneous landscapes. Ecology letters, 21(6), 865-874.
 
 ## Technical skills
 
@@ -52,7 +52,7 @@ Right now working on my first paper of my Master Thesis at the Biological statio
 ## Projects
 
 `2017` _PhD_
-Effects of heterospecific pollen, ecosystem services, pollinators efficiency on crops such as mango, apple, blueberry, raspberry and watermelon.
+Effects of heterospecific pollen, plant reproductive trade offs 
 
 `2016-2017` _Master thesis: Biotic and abiotic factors can change plant-plant competition regimes_ 
 Effects of salinity and pollinators on plan coexistence.  
