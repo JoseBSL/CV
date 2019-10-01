@@ -9,14 +9,14 @@ layout: cv
 ## Jose B. Lanuza
 PhD candidate in heterospecific pollen effect and plant ecology.
 
-[barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](gmaillogo1.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](twitterlogo1.png){ width=2.5% }|
-[JoseBSL](https://github.com/JoseBSL) ![](githublogo.png){ width=2.5% }
+[barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](gmaillogo.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](twitterlogo.png){ width=2.5% }|
+[JoseBSL](https://github.com/JoseBSL) ![](gitlogo.png){ width=2.5% }
 
 
 
 ## Currently
 
-I'm in my second year of PhD at University of New England (Australia). I study the effects of heterospecific pollen and trade offs of reproductive traits.
+I'm in my third year of PhD at University of New England (Australia). I study the effects of heterospecific pollen and trade offs of reproductive traits.
 
 
 ## Education
@@ -88,7 +88,8 @@ Two years in the department of Plant Science with Juan Arroyo. Worked with datab
 
 -----
 
-This CV has been done with R Markdown. An online version of it is available [__on my github account__](https://github.com/JoseBSL/CV/blob/master/cv.Rmd) ![](githublogo.png){ width=2.5% }
+This CV has been done with R Markdown. An online version of it is available  [__my github account__](https://github.com/JoseBSL/CV/blob/master/cv.Rmd) ![](gitlogo.png){ width=2.5% }
+
 
 
 
