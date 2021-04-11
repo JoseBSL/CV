@@ -34,12 +34,17 @@ __Universidad de Sevilla__ Grado en Biología
 
 ## Presentaciones
 
-`2017 Sevilla` XIV congreso MEDECOS y XIII encuentro AEET "Pollinators can change the plant-plant competition regimes" (del 31 de enero al 4 de febrero).
+`2017 Sevilla` XIV congreso MEDECOS y XIII encuentro AEET "Pollinators can change the plant-plant competition regimes" (January 31-February 4).
+
+`2020 Bilbao` XVII ECOFLOR MEETING "Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks" (March 4-7).
 
 
 ## Publicaciones
 
-https://www.biorxiv.org/content/early/2017/07/31/170423
+Lanuza J. B., Bartomeus I., Ashman, T-L., Bible, G., Rader, R. (2021). Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks. Journal of Ecology. 
+
+Lanuza, J. B., Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral visitors and soil conditions on the determinants of competitive outcomes maintain species diversity in heterogeneous landscapes. Ecology Letters, 21(6), 865-874.
+
 
 ## Habilidades técnicas
 
