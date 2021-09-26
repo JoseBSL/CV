@@ -55,13 +55,18 @@ Estudiante de doctorado de interacciones planta-polinizador
 
 ## Actualmente
 
-Cursando un doctorado en la Universidad de New England (Australia)
+Cursando un doctorado en la Universidad de Nueva Inglaterra (Australia) de forma remota desde Sevilla con objetivo de finalización del mismo en Septiembre de 2021. 
 
 
 ## Educación
 
+<<<<<<< HEAD
 `2017-hasta la fecha`
 __Universidad de New England__ Doctorado en Ecología (supervisores: Romina Rader and Ignasi Bartomeus)
+=======
+`2017`
+__Universidad de New England__ Doctorado en Ecología (supervisores: Romina Rader e Ignasi Bartomeus)
+>>>>>>> 23a7fa4c08f83d57008fc0da660ef2c4098a0619
 
 `2015-16`
 __Universidad Pablo de Olavide__ Máster en Biodiversidad y Biología de la Conservación 
@@ -72,10 +77,9 @@ __Universidad de Sevilla__ Grado en Biología
 
 ## Presentaciones
 
-`2017 Sevilla` XIV congreso MEDECOS y XIII encuentro AEET "Pollinators can change the plant-plant competition regimes" (January 31-February 4).
-
 `2020 Bilbao` XVII ECOFLOR MEETING "Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks" (March 4-7).
 
+`2017 Sevilla` XIV congreso MEDECOS y XIII encuentro AEET "Pollinators can change the plant-plant competition regimes" (January 31-February 4).
 
 ## Publicaciones
 
@@ -86,17 +90,28 @@ Lanuza, J. B., Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral vis
 
 ## Habilidades técnicas
 
-* R (Rstudio/Markdown)
+* Rstudio (análisis de datos)
+* Markdown (creación de informes reproducibles)
 * Git
-* Species Taxonomy 
-* Field work experience 
-* ImageJ
-
+* Taxonomía de plantas
+* Experiencia de trabajo de campo en zonas remotas
 
 ## Proyectos
 
+<<<<<<< HEAD
 `2017-hasta la fecha` _Tesis doctoral: Insights of plant reproduction and species diversity at contrasting scales_ 
 Estudio de competencia por polen entre especies de plantas a través de una comunidad artificial con floracián simultanea; creación de una bases de datos con rasgos reproductivos de plantas pertenecientes a redes de planta-polinizador y análisis de las costes-beneficios de estos rasgos y la relevancia de los mismos en métricas de red a nivel de especie; evalucación de patrones planta-polinizador con grupos funcionales de plantas y subredes (motifs); relaciones entre métricas de condición espaciales y métricas de campo para mejorar modelos de teledetección.
+=======
+`2017` _Doctorado: Competencia de especies mediante polen_ 
+
+- Capítulo 1: Estudio de los mecanismos involucrados en la competencia de polen heteroespecífico entre plantas mediante el uso de una comunidad artificial de plantas con diversas características florales. 
+
+- Capítulo 2: Estudio de las estrategias de vida de plantas considerando rasgos florales y reproductivos, y evaluación exploratoria de cómo estos rasgos de variación influyen en los patrones de interación planta-polinizador a escala global. 
+
+- Capítulo 3: Análisis exploratorio mediante motifs de los mayores grupos de interacción considerando grupos funcionales de plantas y polinizadores.
+
+- Capítulo 4: Estudio exploratorio de las correlaciones entre métricas de condición ecológica medida en campo y condición ecológica medida con teledetección. Asociado a una beca concedida para colaborar con el centro de investigación CSIRO de Australia.
+>>>>>>> 23a7fa4c08f83d57008fc0da660ef2c4098a0619
 
 `2016-2017` _Tesis de Máster: Factores bióticos y abióticos pueden modificar los regímenes de competencia planta-planta_ 
 Efectos de la salinidad y los ponilizadores sobre la competencia de especies.
@@ -112,7 +127,13 @@ Efectos de la salinidad y los ponilizadores sobre la competencia de especies.
 
 ## Estancias
 
+<<<<<<< HEAD
 `2017-20` __Tesis doctoral__ (Armidale, Australia)
+=======
+`2017-2020`
+__Doctorado__ (_Universidad de Nueva Inglaterra, Australia)
+Cosupervisado de forma remota por Ignasi Bartomeus y con base en laboratoria de la investigadora Romina Rader.
+>>>>>>> 23a7fa4c08f83d57008fc0da660ef2c4098a0619
 
 `2015-16`
 __Técnico de investigación__ (_Estación Bioloógica de Doñana, España_)
@@ -132,7 +153,7 @@ Dos años en el departamento de botánica con el profesor Juan Arroyo.
 
 -----
 
-Este CV ha sido desarrollado en R Markdown. La versión online en inglés está disponible en [__mi cuenta de github__](https://github.com/JoseBSL/CV/blob/master/cv.Rmd) ![](gitlogo.png){ width=2.5% }
+Este CV ha sido desarrollado en R Markdown. Puede ser encontrado online en [__mi cuenta de github__](https://github.com/JoseBSL/CV/blob/master/cv.Rmd) ![](gitlogo.png){ width=2.5% }
 
 
 
