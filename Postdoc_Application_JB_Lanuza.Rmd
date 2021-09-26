@@ -1,0 +1,139 @@
+---
+title: ""
+output:
+  pdf_document: default
+  word_document: default
+layout: cv
+header-includes:
+    - \usepackage{setspace}\doublespacing
+---
+
+Jose B. Lanuza [barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+Calle Conde de Ibarra Nº7, Seville (Spain) +34616375981
+
+\doublespacing
+
+Dear Dr. Lauren C. Ponisio,
+
+I am writing to apply for the postdoctoral position in plant-pollinator ecology in the Ponisio lab at University of Oregon in collaboration with the Jha lab at University of Austin. Under the supervision of Romina Rader and Ignasi Bartomeus I am currently finishing my Ph.D. in plant reproductive strategies and plant-pollinator interactions at University of New England (Australia) with expected finishing date of November 2021.
+In my research, I have focused on macroecological patterns of flowering plants where I tried to delimit their main reproductive strategies and main pollinating guilds with a global dataset of traits (~1500 spp) of plants from published plant-pollinator networks. Then, with this same dataset I explored at the meso-scale, sub-networks (i.e., motifs) patterns of interactions and investigated the association between the different motif positions and plant and pollinator functional groups. Then, I tried to overcome a major limitation in the understanding of plant-pollinator interactions, the lack of knowledge of post-pollination processes and pollinator efficiency information, by focusing on a specific process commonly ignored in plant-pollinator interactions (i.e., heterospecific pollen deposition). Because I was aware of the difficulties of testing heterospecific pollen impact  in situ I designed a co-flowering community with different degree of relatedness and heterogenous traits that allowed me to understand empirically the main variables governing the mechanisms of foreign pollen impact. Finally, because plants are the primary producers and pollinators depend on it, I explored in a collaborative effort with remote sensing modellers, the association of vegetation condition, compositional and structural field measurements with remote sensing metrics of condition across different vegetation types. Thus, this allowed us to assess the applicability and limitations of this technology when evaluating the state of vegetation condition.
+ 
+I think my main research interest fits very well this postdoctoral position where I believe I can grow as a researcher in a young lab with a clear growing trend. I’m personally also an advocate of reproducible science and I think my interest in data science and stats can help to explore the existing datasets that the position requires. 
+I have shown independence as a researcher by leading my own experiments in an English speaking country, I have collaborated with very different ecological disciplines that have allowed me to learn very different sets of skills and I'm an enthusiastic person awaiting for my next scientific challenge. Thanks for your time and I’m looking forward to hearing from you soon.
+
+Sincerely,
+
+Jose B. Lanuza
+
+
+
+## Jose B. Lanuza
+Ph.D. candidate in plant reproductive strategies and plant-pollinator interactions 
+
+[barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](gmaillogo.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](twitterlogo.png){ width=2.5% }|
+[JoseBSL](https://github.com/JoseBSL) ![](gitlogo.png){ width=2.5% }
+
+
+## Currently
+
+I'm about to finish my thesis in November 2021 and I'm currently looking for postdoctoral positions to continue my scientific career
+
+## Education
+
+`2017`
+__University of New England__ PhD (supervisors: Romina Rader and Ignasi Bartomeus)
+
+`2015-16`
+__University Pablo de Olavide__ MSc Biodiversity and Conservation Biology 
+
+`2010-15`
+__University of Seville__ BSc Biology 
+
+
+## Presentations
+
+Oral speech "Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks" at XVII ECOFLOR meeting (4th to 6th of March 2020, Bilbao)
+
+Oral speech "Pollinators can change the plant-plant competition regimes" at XIV MEDECOS and XIII AEET meeting (31st of January to 4th of February 2017, Seville)
+
+
+## Publications
+
+**Lanuza, J. B.**, Romina Rader, Jamie Stavert, Liam K. Kendall, Manu E. Saunders & Ignasi Bartomeus. Trade-offs among plant reproductive traits determine interactions with floral visitors. In prep. for Nat. Eco. Evo.
+
+
+**Lanuza, J. B.**, Bartomeus, I., Ashman, T. L., Bible, G., & Rader, R. (2021). Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks. Journal of Ecology, 109 (6), 2329-2341.
+
+**Lanuza, J. B.**, Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral visitors and soil conditions on the determinants of competitive outcomes maintain species diversity in heterogeneous landscapes. Ecology letters, 21(6), 865-874.
+
+## Technical skills
+
+* R (Rstudio/Markdown)
+* Git
+* Stats
+* Species Taxonomy 
+* Field work experience 
+
+
+## Projects
+
+`2017-to date` _PhD: Insights of plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales_
+
+`2016-2017` _Master thesis: Biotic and abiotic factors can change plant-plant competition regimes_ 
+Effects of salinity and pollinators on plan coexistence.  
+
+`2015-2016` _Undergraduate thesis: Pollination in heterostyly plants_
+Database with the main characteristic of heterostyly plants (never done it before).
+
+
+## Languages 
+
+1. Spanish (native)
+
+2. English (advanced) TOEFL, C1 level (October 2016) 
+
+
+## Placements
+
+`2018-2020`
+__Commonwealth scientific and industrial research (CSIRO) top up scholarship__ (_University of New England, Armidale, Australia_) 
+In collaboration with NSW office of Environment and Heritage
+
+`2017-2021`
+__PhD scholarship__ (_University of New England, Armidale, Australia_)
+At school of Environmental and Rural Science
+
+`2015-16`
+__Research assistant__ (_Biological Station of Donana, Spain_)
+Worked two months as Research Assistant at Biological Station of Donana for I.Bartomeus, Seville (Spain). Morphometry measures of pollinators with camera Nikon D3300 and ImageJ and also Pollinators Database with R. 
+
+`2015-16`
+__Research assistant__ (_Asturias, Spain_)
+Worked one week with apple tree orchards at North of Spain. Single visit experiments and sampling of their pollinators.
+
+`2013-14`
+__Intership at Stirling University__ (_Stirling, Scotland_)
+Worked for two months at Mario Vallejo's lab with plants of the genus _Mimulus_. Greehouse experiments and fieldwork in Shetland islands and Stirling.
+
+`2012-14`
+__Intern student__(_University of Seville, Spain_)
+Two years in the department of Plant Science with Juan Arroyo. Worked with databases using articles of Web Of Science with several characteristic of heterostily plants. 
+
+-----
+
+References:
+
+Ignasi Bartomeus: nacho.bartomeus@gmail.com  +34 666035040
+
+Romina Rader: rominarader@gmail.com +61 0267732857
+
+Oscar Godoy: ogodoy.re@gmail.com +34 677661571
+
+
+
+
+
+
+
+
