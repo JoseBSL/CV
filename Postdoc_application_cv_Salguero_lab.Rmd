@@ -1,0 +1,122 @@
+---
+title: ""
+output:
+  pdf_document: default
+  word_document: default
+layout: cv
+header-includes:
+    - \usepackage{setspace}\doublespacing
+---
+
+**Jose B. Lanuza**
+*Curriculum Vitae*
+
+Calle Conde de Ibarra Nº7, Seville (Spain) +34616375981
+
+Ph.D. candidate in plant reproductive strategies and plant-pollinator interactions 
+
+[barragansljose@gmail.com ](https://mail.google.com/mail/u/0/#inbox) ![](gmaillogo.png){ width=2.5% }| [ barragan_lanuza ](https://twitter.com/?lang=es) ![](twitterlogo.png){ width=2.5% }|
+[ JoseBSL ](https://github.com/JoseBSL) ![](gitlogo.png){ width=2.5% }
+
+-----
+
+## Currently
+
+I submitted my thesis on 1st of December and just before that (mid Novermber 2021) I started a one year contract at CSIC (Estación Biológica de Doñana, Spain).
+
+## Education
+
+`2017-2021`
+__University of New England (Australia)__ PhD (supervisors: Romina Rader and Ignasi Bartomeus)
+
+`2015-16`
+__University Pablo de Olavide (Spain)__ MSc Biodiversity and Conservation Biology 
+
+`2010-15`
+__University of Seville (Spain)__ BSc Biology 
+
+
+## Presentations
+
+Upcoming oral speech "Insights from plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales" at Estación Biológica de Doñana (27th of January 2022)
+
+Oral speech "Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks" at XVII ECOFLOR meeting (4th to 6th of March 2020, Bilbao)
+
+Oral speech "Pollinators can change the plant-plant competition regimes" at XIV MEDECOS and XIII AEET meeting (31st of January to 4th of February 2017, Seville)
+
+
+## Publications
+
+1. **Lanuza, J. B.**, Rader, R., Stavert, J., Kendall, L. K., Saunders, M. E., & Bartomeus, I. (2021). Trade-offs among plant reproductive traits determine interactions with floral visitors. BioRxiv. (Submitted to PNAS on 5th of January).
+
+2. García-Callejas, D., Godoy, O., Buche, L., Hurtado, M., **Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2021). The non-random structure of multi-trophic ecological interactions maximizes species coexistence within ecologically realistic constraints. BioRxiv. (In review Nat. Eco. Evo.).
+
+3. **Lanuza, J. B.**, Bartomeus, I., Ashman, T. L., Bible, G., & Rader, R. (2021). Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks. Journal of Ecology, 109 (6), 2329-2341.
+
+4. **Lanuza, J. B.**, Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral visitors and soil conditions on the determinants of competitive outcomes maintain species diversity in heterogeneous landscapes. Ecology letters, 21(6), 865-874.
+
+## Technical skills
+
+* R (Rstudio/Markdown)
+* Git
+* Stats
+* Species Taxonomy 
+* Field work experience 
+
+
+## Research experience
+
+`2021-to date`
+__Research assistant__ (Biological Station of Donana, Spain)
+Working on a H2020 project "Safeguarding European wild pollinators" at Bartomeus lab. Currently helping with a Spanish database of Iberian bees.
+
+`2017-2021` 
+__PhD__ (University of New England, Australia)
+Insights of plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales. 
+
+`2016-2017` __Master thesis__ (Universidad Pablo de Olavide, Spain) Biotic and abiotic factors can change plant-plant competition regimes. Effects of salinity and pollinators on plant coexistence.  
+
+`2015-16`
+__Research assistant__ (Biological Station of Donana, Spain)
+Worked two months as Research Assistant at Biological Station of Donana for I. Bartomeus, Seville (Spain). Morphometry measures of pollinators with camera Nikon D3300 and ImageJ and also Pollinators Database with R. 
+
+`2015-16`
+__Research assistant__ (Asturias, Spain)
+Worked one week with apple tree orchards at North of Spain. Single visit experiments and sampling of their pollinators.
+
+`2015-2016` __Undergraduate thesis__ (University of Seville, Spain) Pollination in heterostyly plants.
+Database with the main characteristic of heterostyly plants (never done it before).
+
+`2012-14`
+__Intern student__(University of Seville, Spain)
+Two years in the department of Plant Science with Juan Arroyo. Worked with databases using articles of Web Of Science with several characteristic of heterostily plants. 
+
+## Scholarships awarded
+
+`01/01/2018-14/02/2020` __Commonwealth scientific and industrial research (CSIRO) top up scholarship.__ 
+
+`15/02/2017-15/02/2020` __International Postgraduate Research Award (IPRA).__ 
+
+## Languages 
+
+1. Spanish (native)
+
+2. English (advanced) TOEFL, C1 level (October 2016) 
+
+-----
+
+## Referees:
+
+Ignasi Bartomeus: nacho.bartomeus@gmail.com  +34 666035040
+
+Romina Rader: rominarader@gmail.com +61 0267732857
+
+Oscar Godoy: ogodoy.re@gmail.com +34 677661571
+
+
+
+
+
+
+
+
