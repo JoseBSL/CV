@@ -14,25 +14,12 @@ Calle Conde de Ibarra Nº7, Seville (Spain) +34616375981
 
 \doublespacing
 
-Dear Dr. Lauren C. Ponisio,
-
-I am writing to apply for the postdoctoral position in plant-pollinator ecology in the Ponisio lab at University of Oregon in collaboration with the Jha lab at University of Austin. Under the supervision of Romina Rader and Ignasi Bartomeus I am currently finishing my Ph.D. in plant reproductive strategies and plant-pollinator interactions at University of New England (Australia) with expected finishing date of November 2021.
-In my research, I have focused on macroecological patterns of flowering plants where I tried to delimit their main reproductive strategies and main pollinating guilds with a global dataset of traits (~1500 spp) of plants from published plant-pollinator networks. Then, with this same dataset I explored at the meso-scale, sub-networks (i.e., motifs) patterns of interactions and investigated the association between the different motif positions and plant and pollinator functional groups. Then, I tried to overcome a major limitation in the understanding of plant-pollinator interactions, the lack of knowledge of post-pollination processes and pollinator efficiency information, by focusing on a specific process commonly ignored in plant-pollinator interactions (i.e., heterospecific pollen deposition). Because I was aware of the difficulties of testing heterospecific pollen impact  in situ I designed a co-flowering community with different degree of relatedness and heterogenous traits that allowed me to understand empirically the main variables governing the mechanisms of foreign pollen impact. Finally, because plants are the primary producers and pollinators depend on it, I explored in a collaborative effort with remote sensing modellers, the association of vegetation condition, compositional and structural field measurements with remote sensing metrics of condition across different vegetation types. Thus, this allowed us to assess the applicability and limitations of this technology when evaluating the state of vegetation condition.
- 
-I think my main research interest fits very well this postdoctoral position where I believe I can grow as a researcher in a young lab with a clear growing trend. I’m personally also an advocate of reproducible science and I think my interest in data science and stats can help to explore the existing datasets that the position requires. 
-I have shown independence as a researcher by leading my own experiments in an English speaking country, I have collaborated with very different ecological disciplines that have allowed me to learn very different sets of skills and I'm an enthusiastic person awaiting for my next scientific challenge. Thanks for your time and I’m looking forward to hearing from you soon.
-
-Sincerely,
-
-Jose B. Lanuza
-
-
-
 ## Jose B. Lanuza
-Ph.D. candidate in plant reproductive strategies and plant-pollinator interactions 
 
-[barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](gmaillogo.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](twitterlogo.png){ width=2.5% }|
-[JoseBSL](https://github.com/JoseBSL) ![](gitlogo.png){ width=2.5% }
+PhD candidate in plant reproductive strategies and plant-pollinator interactions 
+
+[barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](Images/gmaillogo.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](Images/twitterlogo.png){ width=2.5% }|
+[JoseBSL](https://github.com/JoseBSL) ![](Images/gitlogo.png){ width=2.5% }
 
 
 ## Currently
@@ -53,15 +40,20 @@ __University of Seville__ BSc Biology
 
 ## Presentations
 
-Oral speech "Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks" at XVII ECOFLOR meeting (4th to 6th of March 2020, Bilbao)
+Oral speech "Plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales". Thesis overview (20th January 2022, Seville)
+
+Oral speech "Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks" at XVII ECOFLOR meeting (4th March to 6th of March 2020, Bilbao)
 
 Oral speech "Pollinators can change the plant-plant competition regimes" at XIV MEDECOS and XIII AEET meeting (31st of January to 4th of February 2017, Seville)
 
 
 ## Publications
 
-**Lanuza, J. B.**, Romina Rader, Jamie Stavert, Liam K. Kendall, Manu E. Saunders & Ignasi Bartomeus. Trade-offs among plant reproductive traits determine interactions with floral visitors. In prep. for Nat. Eco. Evo.
+**Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2022). The non-random assembly of functional motifs in plant-pollinator networks. bioRxiv.
 
+García-Callejas, D., Godoy, O., Buche, L., Hurtado, M., **Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2021). The non-random structure of multi-trophic ecological interactions maximizes species coexistence within ecologically realistic constraints. bioRxiv.
+
+**Lanuza, J. B.**, Rader, R., Stavert, J., Kendall, L. K., Saunders, M. E., & Bartomeus, I. (2021). Trade-offs among plant reproductive traits determine interactions with floral visitors. bioRxiv.
 
 **Lanuza, J. B.**, Bartomeus, I., Ashman, T. L., Bible, G., & Rader, R. (2021). Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks. Journal of Ecology, 109 (6), 2329-2341.
 
