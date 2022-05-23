@@ -1,22 +1,35 @@
 ---
 title: ""
-output:
-  pdf_document: default
-  word_document: default
-layout: cv
 header-includes:
-    - \usepackage{setspace}\doublespacing
+   - \usepackage[default]{sourcesanspro}
+   - \usepackage[T1]{fontenc}
+   - \usepackage{setspace}\doublespacing
+   - \usepackage{hyperref}
+   - \hypersetup {colorlinks = true, linkcolor = black, urlcolor = black}
+
+
+mainfont: Roboto
+fontsize: 12pt
+output:
+  pdf_document
 ---
 
-Jose B. Lanuza [barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox)
-
-Calle Conde de Ibarra Nº7, Seville (Spain) +34616375981
 
 \doublespacing
 
-## Jose B. Lanuza
+\begingroup
 
-PhD candidate in plant reproductive strategies and plant-pollinator interactions 
+\fontsize{25}{60}\selectfont Jose B. Lanuza
+
+\endgroup
+
+\begingroup
+
+\fontfamily{Roboto}
+
+\endgroup
+
+PhD in plant reproductive strategies and plant-pollinator interactions 
 
 [barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](Images/gmaillogo.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](Images/twitterlogo.png){ width=2.5% }|
 [JoseBSL](https://github.com/JoseBSL) ![](Images/gitlogo.png){ width=2.5% }
@@ -24,11 +37,11 @@ PhD candidate in plant reproductive strategies and plant-pollinator interactions
 
 ## Currently
 
-I'm about to finish my thesis in November 2021 and I'm currently looking for postdoctoral positions to continue my scientific career
+Working at \href{https://bartomeuslab.com/}{\color{magenta}{Bartomeus lab}} on the project "Safeguarding European wild pollinators"
 
 ## Education
 
-`2017`
+`2017-2022`
 __University of New England__ PhD (supervisors: Romina Rader and Ignasi Bartomeus)
 
 `2015-16`
@@ -49,15 +62,20 @@ Oral speech "Pollinators can change the plant-plant competition regimes" at XIV 
 
 ## Publications
 
-**Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2022). The non-random assembly of functional motifs in plant-pollinator networks. bioRxiv.
+\begingroup
 
-García-Callejas, D., Godoy, O., Buche, L., Hurtado, M., **Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2021). The non-random structure of multi-trophic ecological interactions maximizes species coexistence within ecologically realistic constraints. bioRxiv.
+**Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2022). The non-random assembly of functional motifs in plant-pollinator networks. bioRxiv. \href{https://doi.org/10.1101/2022.04.06.486621}{\color{magenta}{https://doi.org/10.1101/2022.04.06.486621}}
 
-**Lanuza, J. B.**, Rader, R., Stavert, J., Kendall, L. K., Saunders, M. E., & Bartomeus, I. (2021). Trade-offs among plant reproductive traits determine interactions with floral visitors. bioRxiv.
+García-Callejas, D., Godoy, O., Buche, L., Hurtado, M., **Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2021). The non-random structure of multi-trophic ecological interactions maximizes species coexistence within ecologically realistic constraints. bioRxiv. \href{https://doi.org/10.1101/2021.11.29.470335}{\color{magenta}{https://doi.org/10.1101/2021.11.29.470335}}
 
-**Lanuza, J. B.**, Bartomeus, I., Ashman, T. L., Bible, G., & Rader, R. (2021). Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks. Journal of Ecology, 109 (6), 2329-2341.
 
-**Lanuza, J. B.**, Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral visitors and soil conditions on the determinants of competitive outcomes maintain species diversity in heterogeneous landscapes. Ecology letters, 21(6), 865-874.
+**Lanuza, J. B.**, Rader, R., Stavert, J., Kendall, L. K., Saunders, M. E., & Bartomeus, I. (2021). Trade-offs among plant reproductive traits determine interactions with floral visitors. bioRxiv. \href{https://doi.org/10.1101/2021.12.09.471959}{\color{magenta}{https://doi.org/10.1101/2021.12.09.471959}}
+
+**Lanuza, J. B.**, Bartomeus, I., Ashman, T. L., Bible, G., & Rader, R. (2021). Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks. Journal of Ecology, 109 (6), 2329-2341. \href{https://doi.org/10.1111/1365-2745.13640}{\color{magenta}{https://doi.org/10.1111/1365-2745.13640}}
+
+**Lanuza, J. B.**, Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral visitors and soil conditions on the determinants of competitive outcomes maintain species diversity in heterogeneous landscapes. Ecology letters, 21(6), 865-874. \href{https://doi.org/10.1111/ele.12954}{\color{magenta}{https://doi.org/10.1111/ele.12954}}
+\endgroup
+
 
 ## Technical skills
 
@@ -70,7 +88,7 @@ García-Callejas, D., Godoy, O., Buche, L., Hurtado, M., **Lanuza, J. B.**, Alle
 
 ## Projects
 
-`2017-to date` _PhD: Insights of plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales_
+`2017-2022` _PhD: Insights of plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales_
 
 `2016-2017` _Master thesis: Biotic and abiotic factors can change plant-plant competition regimes_ 
 Effects of salinity and pollinators on plan coexistence.  
@@ -120,7 +138,7 @@ Two years in the department of Plant Science with Juan Arroyo. Worked with datab
 
 -----
 
-References:
+**References**:
 
 Ignasi Bartomeus: nacho.bartomeus@gmail.com  +34 666035040
 
