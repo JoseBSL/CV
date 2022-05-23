@@ -1,5 +1,13 @@
 ---
 title: ""
+<<<<<<< HEAD
+=======
+output:
+  pdf_document: default
+  word_document: default
+layout: cv
+urlcolor: blue
+>>>>>>> fa90b2edc804ce30b52102821c61e93d35ea8fef
 header-includes:
    - \usepackage[default]{sourcesanspro}
    - \usepackage[T1]{fontenc}
@@ -7,6 +15,7 @@ header-includes:
    - \usepackage{hyperref}
    - \hypersetup {colorlinks = true, linkcolor = black, urlcolor = black}
 
+<<<<<<< HEAD
 
 mainfont: Roboto
 fontsize: 12pt
@@ -30,14 +39,26 @@ output:
 \endgroup
 
 PhD in plant reproductive strategies and plant-pollinator interactions 
+=======
+-----
 
-[barragansljose@gmail.com](https://mail.google.com/mail/u/0/#inbox) ![](Images/gmaillogo.png){ width=2.5% }| [barragan_lanuza](https://twitter.com/?lang=es) ![](Images/twitterlogo.png){ width=2.5% }|
-[JoseBSL](https://github.com/JoseBSL) ![](Images/gitlogo.png){ width=2.5% }
+\doublespacing
 
+# Jose B. Lanuza [![Image name](Images/ORCID_ID.png){ width=2.5% }](https://orcid.org/0000-0002-0287-409X)
+
+>>>>>>> fa90b2edc804ce30b52102821c61e93d35ea8fef
+
+barragansljose@gmail.com [![Image name](Images/gmaillogo.png){ width=2.5% }](barragansljose@gmail.com) | barragan_lanuza [![Image name](Images/twitterlogo.png){ width=2.5% }](https://twitter.com/barragan_lanuza) | JoseBSL [![Image name](Images/gitlogo.png){ width=2.5% }](https://github.com/JoseBSL) 
+
+_PhD in plant reproductive strategies and plant-pollinator interactions_
 
 ## Currently
 
+<<<<<<< HEAD
 Working at \href{https://bartomeuslab.com/}{\color{magenta}{Bartomeus lab}} on the project "Safeguarding European wild pollinators"
+=======
+Working at Estación Biológica de Doñana under the project "*Safeguarding European wild pollinators*"
+>>>>>>> fa90b2edc804ce30b52102821c61e93d35ea8fef
 
 ## Education
 
@@ -50,18 +71,21 @@ __University Pablo de Olavide__ MSc Biodiversity and Conservation Biology
 `2010-15`
 __University of Seville__ BSc Biology 
 
-
-## Presentations
-
-Oral speech "Plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales". Thesis overview (20th January 2022, Seville)
-
-Oral speech "Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks" at XVII ECOFLOR meeting (4th March to 6th of March 2020, Bilbao)
-
-Oral speech "Pollinators can change the plant-plant competition regimes" at XIV MEDECOS and XIII AEET meeting (31st of January to 4th of February 2017, Seville)
-
-
 ## Publications
 
+Bartomeus, I., **Lanuza, J. B.**, Wood, T. J. et al.,  Carvalheiro, L., ... (2022). Iberian bees database. Under review in Ecosistemas.
+
+**Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2022). The non-random assembly of functional motifs in plant-pollinator networks. bioRxiv. Under review in Journal of Animal Ecology.
+
+García-Callejas, D., Godoy, O., Buche, L., Hurtado, M., **Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2021). The non-random structure of multi-trophic ecological interactions maximizes species coexistence within ecologically realistic constraints. bioRxiv.
+
+**Lanuza, J. B.**, Rader, R., Stavert, J., Kendall, L. K., Saunders, M. E., & Bartomeus, I. (2021). Trade-offs among plant reproductive traits determine interactions with floral visitors. bioRxiv.
+
+**Lanuza, J. B.**, Bartomeus, I., Ashman, T. L., Bible, G., & Rader, R. (2021). Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks. Journal of Ecology, 109 (6), 2329-2341.
+
+**Lanuza, J. B.**, Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral visitors and soil conditions on the determinants of competitive outcomes maintain species diversity in heterogeneous landscapes. Ecology letters, 21(6), 865-874.
+
+<<<<<<< HEAD
 \begingroup
 
 **Lanuza, J. B.**, Allen-Perkins, A., & Bartomeus, I. (2022). The non-random assembly of functional motifs in plant-pollinator networks. bioRxiv. \href{https://doi.org/10.1101/2022.04.06.486621}{\color{magenta}{https://doi.org/10.1101/2022.04.06.486621}}
@@ -76,6 +100,20 @@ García-Callejas, D., Godoy, O., Buche, L., Hurtado, M., **Lanuza, J. B.**, Alle
 **Lanuza, J. B.**, Bartomeus, I., & Godoy, O. (2018). Opposing effects of floral visitors and soil conditions on the determinants of competitive outcomes maintain species diversity in heterogeneous landscapes. Ecology letters, 21(6), 865-874. \href{https://doi.org/10.1111/ele.12954}{\color{magenta}{https://doi.org/10.1111/ele.12954}}
 \endgroup
 
+=======
+## Presentations
+
+Oral speech "Plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales". Thesis overview (20th January 2022, Seville) [![Image name](Images/youtube.png){ width=2.5% }](https://youtu.be/4LBoHABPlKs) 
+
+Oral speech "Recipient and donor characteristics govern the hierarchical structure of heterospecific pollen competition networks" at XVII ECOFLOR meeting (4th March to 6th of March 2020, Bilbao)
+
+Oral speech "Pollinators can change the plant-plant competition regimes" at XIV MEDECOS and XIII AEET meeting (31st of January to 4th of February 2017, Seville)
+
+
+## Academic service
+
+Reviewer for: Scientific Reports 2018 (1), PeerJ 2019 (1), Journal of Applied Ecology 2020 (1), Flora 2022 (1) and Functional Ecology 2022 (1).
+>>>>>>> fa90b2edc804ce30b52102821c61e93d35ea8fef
 
 ## Technical skills
 
@@ -88,10 +126,15 @@ García-Callejas, D., Godoy, O., Buche, L., Hurtado, M., **Lanuza, J. B.**, Alle
 
 ## Projects
 
+<<<<<<< HEAD
+=======
+`2021-To date` *One year research contract at Estación Biológica de Doñana under the project "Safeguarding European wild pollinators" *
+
+>>>>>>> fa90b2edc804ce30b52102821c61e93d35ea8fef
 `2017-2022` _PhD: Insights of plant reproductive trade-offs and plant-pollinator interactions at contrasting ecological scales_
 
 `2016-2017` _Master thesis: Biotic and abiotic factors can change plant-plant competition regimes_ 
-Effects of salinity and pollinators on plan coexistence.  
+Effects of salinity and pollinators on plant coexistence.  
 
 `2015-2016` _Undergraduate thesis: Pollination in heterostyly plants_
 Database with the main characteristic of heterostyly plants (never done it before).
@@ -138,7 +181,11 @@ Two years in the department of Plant Science with Juan Arroyo. Worked with datab
 
 -----
 
+<<<<<<< HEAD
 **References**:
+=======
+# References:
+>>>>>>> fa90b2edc804ce30b52102821c61e93d35ea8fef
 
 Ignasi Bartomeus: nacho.bartomeus@gmail.com  +34 666035040
 
