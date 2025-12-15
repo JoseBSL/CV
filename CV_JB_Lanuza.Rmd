@@ -40,6 +40,8 @@ __University of Seville__ BSc Biology
 
 ## Publications (full list)
 
+Glenny, W., **Lanuza, J. B.**, Rakosy, D., Ladouceur, E., Zhong, Y., & Knight, T. M. (2025). Flowers for habitat enhancement primarily benefit common insect pollinators across temperate grasslands. Journal of Applied Ecology.  \href{https://doi.org/10.1111/1365-2664.70216}{\color{magenta}{https://doi.org/10.1111/1365-2664.70216}}
+
 **Lanuza, J.B.**, Knight, T.M., Montes‐Perez, N., Glenny, W., Acuña, P., Albrecht, M., ... & Bartomeus, I. (2025). EuPPollNet: A European Database of Plant‐Pollinator Networks. Global Ecology and Biogeography, 34(2), e70000. \href{https://doi.org/10.1111/geb.70000}{\color{magenta}{https://doi.org/10.1111/geb.70000}}
 
 **Lanuza J.B.**, Collado M.Á., Sayol F., Sol D., Bartomeus I. (2023). Brain size predicts bees’ tolerance to urban environments. Biology Letters, 19: 20230296. \href{https://doi.org/10.1098/rsbl.2023.0296}{\color{magenta}{https://doi.org/10.1098/rsbl.2023.0296}}
@@ -76,7 +78,9 @@ Oral speech "Pollinators can change the plant-plant competition regimes" at XIV 
 
 ## Academic service
 
-Reviewer for: Scientific Reports 2018 (1), PeerJ 2019 (1), Journal of Applied Ecology 2020 (1), Flora 2022 (1) and Functional Ecology 2022 (1).
+Reviewer for: Scientific Reports 2018 (1), PeerJ 2019 (1), Journal of Applied Ecology 2020 (1), Flora 2022 (1) and Functional Ecology 2022 (1),
+Journal of Applied Ecology 2022 (1), Oikos 2022 (1), Ecological Entomology 2024 (1), Ecology & Evolution 2025 (1), Biology Letters 2025 (1).
+
 
 ## Technical skills
 
@@ -90,7 +94,7 @@ Reviewer for: Scientific Reports 2018 (1), PeerJ 2019 (1), Journal of Applied Ec
 
 `2025` *Partner of AdapTest project, conducted a local experiment with Arabidopsis in Mallorca (Spain)*
 
-`2023-To date` *Two year research contract working with plant-animal interactions at the German Centre for Integrative Biodiversity Research (iDiv)"*
+`2023-2025` *Two year research contract working with plant-animal interactions at the German Centre for Integrative Biodiversity Research (iDiv)"*
 
 `2021-2022` *One year research contract at Estación Biológica de Doñana under the project "Safeguarding European wild pollinators" *
 
@@ -112,15 +116,14 @@ Database with the main characteristic of heterostyly plants (never done it befor
 
 `2025-2027`
 __Postdoctoral researcher__ (_IMEDEA, Mallorca_)
-Two-year Juan de la Cierva fellowship at Traveset's lab within the Global Change group at IMEDEA.
+Juan de la Cierva fellowship at Traveset's lab within the Global Change group at IMEDEA.
 
 `2023-2025`
 __Postdoctoral researcher__ (_iDiv, Leipzig_)
-Two-year contract working at the PhenObs project with plant-animal interactions.
+PhenObs project with plant-animal interactions in botanical gardens.
 
-`2021-22`
-__Postdoctoral researcher__ (_Biological Station of Donana, Spain_)
-One-year contract helping in the H2020 project Safeguarding European wild pollinators.
+`2021-2022`
+__Postdoctoral researcher__ (_Biological Station of Donana, Spain_) H2020 project Safeguarding European wild pollinators.
  
 `2018-2020`
 __Commonwealth scientific and industrial research (CSIRO) top up scholarship__ (_University of New England, Armidale, Australia_) 
